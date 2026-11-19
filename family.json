@@ -12,10 +12,6 @@
       "provider": "anthropic",
       "name": "claude-sonnet-5-5"
     },
-    "position": {
-      "x": 0,
-      "y": 0
-    },
     "mcps": [],
     "skills": [],
     "sub-agents": []
